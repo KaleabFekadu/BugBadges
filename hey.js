@@ -1,1 +1,1 @@
-console.log("Hey")
+const bug = "pair";
